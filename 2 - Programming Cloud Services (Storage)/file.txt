@@ -1,0 +1,10 @@
+This is a test file 
+Create a Java program to create a bucket in three regions of your choice.
+(a) Explain in detail the steps involved, and explain the output.
+3. Create a Java program that lists your buckets in the region of your choice.
+4. Create a Java program to upload objects in your newly created bucket.
+5. Create a Java program to delete a particular objects from your newly
+created bucket.
+
+Exercise c: Create a Java program to upload and download objects (sizes 1MB, 10 MB, 100 MB and 500MB) from the three regions used in the above exercise. 
+Measure the object upload and download latency from these regions. Plot and explain the results in your report. Think about statistical analysis and any assumptions made.
